@@ -1,0 +1,4 @@
+robert;lewandowski;30;80
+dariusz;mariusz;39;95
+losowy;bramkarz;19;56
+coonrobi;Naboisku;28;68
